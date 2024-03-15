@@ -1,3 +1,3 @@
-## Hexamind 
+# Hexamind 
 
 ### Who are we ? 
